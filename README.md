@@ -6,11 +6,11 @@ A helpful list of developer tools for Salesforce
 ### IDE's
 
 * [Salesforce IDE](https://developer.salesforce.com/page/Force.com_IDE)
-  * * **Platforms**: Windows, MacOS, Linux, Others?
+  * **Platforms**: Windows, MacOS, Linux, Others?
   * **Overview**:The Force.com IDE is a powerful client application for creating, modifying and deploying Force.com applications. Based on the Eclipse platform and built on the Tooling API, the Force.com IDE provides a comfortable environment for programmers familiar with integrated development environments, letting you code, compile, test, package, and deploy all from within the IDE. Much of the actual work, such as compilation, happens on the Force.com platform—the Force.com IDE performs the communication and result parsing transparently.
 
 * [MavensMate IDE](http://mavensmate.com)
-  * * **Platforms**: Windows, MacOS, Linux
+  * **Platforms**: Windows, MacOS, Linux
   * **Overview**: Powerful open source tool for building Force.com IDEs. Our mission is to make building Force.com applications easy and fun for developers regardless of platform or text editor.
 
 ### API Client Libraries
