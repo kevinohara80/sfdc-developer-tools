@@ -21,6 +21,20 @@ A helpful list of developer tools for Salesforce
 [nforce-metadata](https://github.com/kevinohara80/nforce-metadata), 
 [nforce-express](https://github.com/kevinohara80/nforce).
 
+### Apex Frameworks
+
+* [sfdc-trigger-framework](https://github.com/kevinohara80/sfdc-trigger-framework)
+  * **Overview**: A minimal trigger framework for your apex triggers
+
+### Client Side Frameworks
+
+* ???
+
+### Developer Tools
+
+* [dmc](https://github.com/kevinohara80/dmc)
+  * **Overview**: https://github.com/kevinohara80/dmc
+
 ## Needed Tools
 
 * CI?
