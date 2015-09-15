@@ -28,6 +28,7 @@ A helpful list of developer tools for Salesforce
 ## Other Resources
 
 * [Tools Listing on developer.force.com](https://developer.salesforce.com/page/Tools)
+* [Admin / Developer tools on the Appexchange](https://appexchange.salesforce.com/category/admin-tools)
 
 ## Contributing
 
