@@ -33,7 +33,7 @@ A helpful list of developer tools for Salesforce
 ### Developer Tools
 
 * [dmc](https://github.com/kevinohara80/dmc)
-  * **Overview**: https://github.com/kevinohara80/dmc
+  * **Overview**: The file-system-like, cross-platform, cli developer tool for Salesforce
 
 ## Needed Tools
 
