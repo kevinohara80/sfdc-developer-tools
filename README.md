@@ -13,6 +13,10 @@ A helpful list of developer tools for Salesforce
 
 * CI?
 
+## Other Resources
+
+* [Tools Listing on developer.force.com](https://developer.salesforce.com/page/Tools)
+
 ## Contributing
 
 If you have a developer tool you'd like to list here, please
