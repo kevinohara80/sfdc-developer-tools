@@ -34,6 +34,8 @@ A helpful list of developer tools for Salesforce
 
 * [dmc](https://github.com/kevinohara80/dmc)
   * **Overview**: The file-system-like, cross-platform, cli developer tool for Salesforce
+* [force-dev-tool](https://github.com/amtrack/force-dev-tool)
+  * **Overview**: Command line tool supporting the Force.com development lifecycle
 
 ## Needed Tools
 
